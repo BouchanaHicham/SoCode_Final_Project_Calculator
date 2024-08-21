@@ -23,7 +23,8 @@ def division(a, b):
 # Function for Modulus
 # [Louai]: Implement the modulus function here
 def modulus(a, b):
-    pass  # Replace this with the code for modulus
+    result = a % b
+    return result
 
 # Function for Exponentiation
 # [Aya]: Implement the exponentiation function here
