@@ -21,7 +21,7 @@ def division(a, b):
 # Function for Modulus
 # [Louai]: Implement the modulus function here
 def modulus(a, b):
-    result = a%b
+    result = a % b
     return result
 
 # Function for Exponentiation
