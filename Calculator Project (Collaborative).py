@@ -33,7 +33,8 @@ def exponentiation(a, b):
 # Function for Square Root
 # [Yacine]: Implement the square root function here
 def square_root(a):
-    pass  # Replace this with the code for square root
+    result = a ** 0.5 
+    return result 
 
 # Main function to use the calculator
 def main():
