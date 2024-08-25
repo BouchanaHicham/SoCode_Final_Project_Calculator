@@ -2,6 +2,7 @@
 
 # Function for Addition
 # [Fatima Zahra]: Implement the addition function here
+
 def addition(a, b):
     pass  # Replace this with the code for addition
 
